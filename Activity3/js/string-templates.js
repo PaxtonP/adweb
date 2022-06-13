@@ -1,2 +1,2 @@
-let call = `She's often called "Mae"`;
+let call = `He's often called "Pax"`;
 document.getElementById("string-templates").innerHTML = call;
